@@ -1,1 +1,1 @@
-console.log('Skrypt działa prawidłowo!')
+alert('Skrypt działa prawidłowo!');
